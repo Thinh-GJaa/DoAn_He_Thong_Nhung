@@ -1,3 +1,8 @@
-Nhận dạng chuyển động con người bằng cảm biến MPU6050
-Data train được thu trực tiếp từ thực tế
-Thiết bị được đeo ngay trên đùi cách khớp gối 3 4cm và đeo ở đùi trái
+# Đồ án môn Hệ thống nhúng
+
+Giáo viên hướng dẫn: Nguyễn Trọng Kiên
+
+Đề tài: Nhận dạng chuyển động con người bằng cảm biến MPU6050
+
+(Đi bộ. chạy, nhảy, đứng, ngồi)
+
